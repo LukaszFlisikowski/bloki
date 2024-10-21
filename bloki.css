@@ -1,0 +1,36 @@
+#obraz3{
+    float:left;
+    width: 600px;
+    height: 300px;
+    border: 1px solid cyan;
+    margin-bottom: 100px;
+}
+#obraz2{
+ width: 800px;
+ height: 500px;
+border: 1px solid cyan;
+clear: both;
+margin-left: 30%;
+float: left;
+}
+#obraz1{
+ width: 600px;
+ height: 300px;
+border: 1px solid cyan;
+position: absolute;
+margin-top: 25%;
+margin-left: 35%;
+}
+img{
+    width: 600px;
+    height: 250px;
+}
+
+body{
+    margin: auto;
+    padding: 0;
+}
+#F14{
+    width: 800px;
+    height: 450px;
+}
